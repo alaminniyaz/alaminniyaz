@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">A Developer from Bangladesh.</h3>
+<h3 align="center">Trying to be a Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ialamin69&label=Profile%20views&color=0e75b6&style=flat" alt="ialamin69" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Bootstrap 5**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ialamin69?tab=repositories](https://github.com/ialamin69?tab=repositories)
 
