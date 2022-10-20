@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">Trying to be a Programmer.</h3>
+<h3 align="center"> Welcome To My Personal GitHub Profile. My Self Al Amin. I am Trying to be A Programmer. I Love To Learn Something New & Teaching Someone.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ialamin69&label=Profile%20views&color=0e75b6&style=flat" alt="ialamin69" /> </p>
 
