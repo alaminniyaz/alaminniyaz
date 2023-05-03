@@ -55,5 +55,3 @@
 
 <br/>
 
-![Al Amin github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alaminniyaz&theme=merko)
-
