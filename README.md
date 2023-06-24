@@ -1,7 +1,11 @@
 
-
 <h1 align="center">Hi 👋, I'm Al Amin </h1>
-<h3 align="center"> Welcome To My Personal GitHub Profile. <br> My Self Al Amin. I am Trying to be a Programmer. <br> I Love To Learn Something New & Teaching Someone. </h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="300"/>
+</div>
+
+<h3 align="center"> Full-Stack Developer & Tech Writer👨‍💻 <br> Let's connect and collaborate! 💻✨ </h3>
 
 <div align="center">
   
@@ -13,11 +17,16 @@
   
 </div>
 
-- 🌱 I’m currently learning **JavaScript** 
-- 🤝 I Regularly Contribute To Programming Related Project On [Github](https://github.com/alaminniyaz) 
-- 👨‍💻 All of my projects are available at [My Portfolio Website](https://alamin.vercel.app) 
-- 📝 I regularly write articles on [Twitter](https://twitter.com/alaminniyaz) 
+- 🌱 I’m currently learning **JavaScript**
+  
+- 🤝 I Regularly Contribute To Programming Related Project On [Github](https://github.com/alaminniyaz)
+
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://alamin.vercel.app)
+  
+- 📝 I regularly write articles on [Twitter](https://twitter.com/alaminniyaz)
+  
 - 💬 Ask me about **HTML, CSS, Bootstrap**
+
 - 📫 How to reach me **mdalamin4064@gmail.com**
 </div> 
 
